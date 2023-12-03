@@ -11,7 +11,15 @@ Our way of figuring things out is a bit like putting together a puzzle. We look 
 In short, this study wants to shine a light on the interesting parts of how people shop online. By looking closely at what people like, when they shop the most, and how much they spend, we hope to help businesses and policymakers understand this digital world better. It's like exploring a new land to learn its secrets and make better choices for the future. 
 
 Datasets:
-To analyze online shopping preferences, peak activity, and price ranges, I have gathered data from diverse sources. These datasets include user transactions from prominent e-commerce platforms, customer surveys, and industry reports. The comprehensive nature of these datasets allows for a nuanced examination of the factors influencing online shopping trends.
+To really understand how people shop online, I've gathered a bunch of information from different places. I looked at what people buy on popular online shops, asked them questions in surveys, and checked reports about the industry. By combining all these different sources, we can take a close look at the things that affect how people shop online.
+
+I got information from actual transactions on big online shopping websites. This helps us see what people like to buy, how they pay, and who they are. I also asked people directly through surveys about what they think and prefer when shopping online. To add to that, I looked at reports made by experts in the industry to get a bigger picture of what's happening in the online shopping world.
+
+Using this mix of information gives us a better understanding of the factors that influence how people shop online. It's like putting together puzzle pieces to see the whole picture, not just bits and parts.
+
+The goal here is to really dig into the details of online shopping – what people like, when they shop the most, and how much things usually cost. This information can be useful for businesses to make better plans and for policymakers to make fair rules.
+
+In short, this study is like peeling back the layers to see what makes online shopping tick. We're aiming to help businesses and policymakers make sense of this digital world by understanding what people want and how they go about getting it online.
 
 Methodology:
 My research employs a multi-faceted methodology to explore the common online shopping preferences among individuals. To identify trends, we conduct a thorough analysis of user behavior, considering factors such as product categories, payment methods, and user demographics. The peak activity months are determined through time-series analysis of transaction volumes, highlighting the periods of heightened online shopping.
