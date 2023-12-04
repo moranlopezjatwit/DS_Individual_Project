@@ -1,9 +1,0 @@
-data7.Month.info()
-<class 'pandas.core.series.Series'>
-Index: 52524 entries, 0 to 52923
-Series name: Month
-Non-Null Count  Dtype
---------------  -----
-52524 non-null  int64
-dtypes: int64(1)
-memory usage: 820.7 KB
